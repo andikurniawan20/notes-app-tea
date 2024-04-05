@@ -20,7 +20,7 @@ Start by cloning this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/andikurniawan20/notes-app-tea.git
 cd notes-app
 Install dependencies
 
